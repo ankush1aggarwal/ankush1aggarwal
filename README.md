@@ -4,7 +4,7 @@
 
 🌱 I’m open to explore new technologies and work on new ideas
 
-💬 Ask me about Tennis, Formula 1, ML Ecosystem on Cloud
+💬 Ask me about ML Ecosystem on Cloud, Tennis, Formula 1
 
 📫 How to reach me: ankush.aggarwal@iitbombay.org
 
