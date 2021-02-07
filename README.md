@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I've 6 yrs of experience and currently working as Lead Data Scientist in large tech organization
+
 🌱 I’m open to explore new technologies and work on new ideas
+
 💬 Ask me about Tennis, Formula 1, ML Ecosystem on Cloud
+
 📫 How to reach me: ankush.aggarwal@iitbombay.org
 
 <!--
